@@ -21,6 +21,6 @@
   "homepage": "https://github.com/LightCircle/LightGetui",
   "dependencies": {
     "light-core": "git+http://git.alphabets.cn/root/LightCore.git",
-    "node-protobuf": "1.2.3"
+    "protobufjs": "5.0.1"
   }
 }
